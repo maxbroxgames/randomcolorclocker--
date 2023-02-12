@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  div { 
+    margin-top: 100px;
+  }
+  
+  button {
+    font-size: 40px;
+    background: #ffaeb9;
+  }
+  button:hover {
+    background: #46f1aa;
+   
+  }
+  h1 {
+    font-size: 150px;
+  }
+  
+  button {
+    font-size: 40px;
+  }
+  button {
+    font-size: 40px;
+  }
